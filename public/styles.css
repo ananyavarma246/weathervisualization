@@ -1,0 +1,10 @@
+body {
+   background-image: url(weather.jpg);
+   background-size: 1920px 950px;
+   /* background-color: aqua; */
+   text-align: center;
+}
+
+.div {
+   padding-top: 400px;
+}
